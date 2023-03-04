@@ -17,4 +17,4 @@ None
 
 ### Contact me
 
-[email@domain.com](mailto:jayjintheprogrammer@gmail.com)
+[jayjintheprogrammer@gmail.com](mailto:jayjintheprogrammer@gmail.com)

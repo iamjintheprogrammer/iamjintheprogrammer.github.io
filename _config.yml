@@ -6,7 +6,7 @@
 name: Jin
 
 # Short bio or description (displayed in the header)
-description: System Programmer & Web Back-End Programmer
+description: System & Web Back-End Programmer
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://media.licdn.com/dms/image/C5603AQEpKW9yvMoiVQ/profile-displayphoto-shrink_800_800/0/1640073854094?e=1683158400&v=beta&t=k3uytCSOyKwOe8iQbpK6v_-GOSOO-F8I7EyNR4CUFuE
@@ -21,9 +21,9 @@ footer-links:
   email: jayjintheprogrammer@gmail.com
   facebook:
   flickr:
-  github: https://github.com/iamjintheprogrammer
+  github: iamjintheprogrammer
   instagram:
-  linkedin: https://www.linkedin.com/in/jin-jaehwan-598a50225
+  linkedin: jin-jaehwan-598a50225
   pinterest:
   rss: # just type anything here for a working RSS icon
   twitter:
